@@ -13,7 +13,7 @@
   <properties>
   		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<jdk.version>1.7</jdk.version>
-		<selenium.version>3.0.1</selenium.version>
+		<selenium.version>3.2.0</selenium.version>
 		<testng.version>6.9.6</testng.version>   
   </properties>
 
